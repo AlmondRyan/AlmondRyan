@@ -14,7 +14,8 @@ ryan2551@foxmail.com or ryan_nvkopres@outlook.com All ok!
 
 #### Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlmondRyan)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlmondRyan)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlmondRyan)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlmondRyan)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Social Links
 
