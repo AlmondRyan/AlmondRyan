@@ -1,21 +1,16 @@
-## Introduction
+## Ryan Almond (NvKopres) Here!!
 
 Hello there! I'm Ryan Almond, you can also call me NvKopres or Ryamo is all OK!
-
 And I am also a music producer.
-
 So I am a Qt/Compiler Programmer from China, and I am doing on Retoccilus(a game engine based on Qt6)
-
 I am currently learning about Algorithms in C++.
 
-How to reach me? It is easy, just email me, yeah thats all >w<
-
-ryan2551@foxmail.com or ryan_nvkopres@outlook.com All ok!
-
-#### Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlmondRyan)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlmondRyan)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AlmondRyan&hide=prs&count_private=true&show_icons=true&theme=material-palenight" alt="BNDong github stats" width="480" height="170" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlmondRyan&layout=compact&theme=material-palenight" alt="Top Langs" height="168" />
+</a>
 
 #### Social Links
 
